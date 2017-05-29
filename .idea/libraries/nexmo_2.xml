@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="nexmo 2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/../External Libary/nexmo 2.02 client" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../External Libary/nexmo 2.02 client" recursive="false" />
+  </library>
+</component>
